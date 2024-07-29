@@ -106,4 +106,11 @@ A platform for online learning with features for user authentication, course man
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/online-learning-platform.git
+   git clone https://github.com/YahorDubrouski/learning-platform.git
+2. Go to the backend directory:
+   ```bash
+   cd backend
+3. Execute the setup script:
+   ```bash
+   bash setup.sh
+4. Visit the site in the browser - https://learning-platform.com/
